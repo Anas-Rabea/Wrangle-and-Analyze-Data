@@ -11,12 +11,12 @@ Gathering
 
 Assessing
 -
-Visual and Programmatically
+#### Visual and Programmatically
 
 - Visual first to get a general idea about each column and it's value.
 Knowing datatypes of each column and keep in mind the cleaning of the wrong datatypes
 
--Programmatically
+#### Programmatically
 
 I used each available methode to get into each column in each table
 using describe() for statistics description , value_counts() for value counts and knowing different values
@@ -34,7 +34,7 @@ Cleaning
 - Continuing for cleaning the tidness challenges and ending with quality ones.
 - Each quality and tidness issue has its Code and Test step
 
-visualization & insights
-
+Visualization & insights
+-
 - getting some insight for each stage of dogs and most lovely stage for people based on retweets and favorites counts
 - Visualize each Algorithm for best kind of animal to predict.
