@@ -1,5 +1,5 @@
 # Wrangle-and-Analyze-Data
-Gathering , Assessing, Cleaning and Reporting tweets archive of WERATEDOGS account to get most lovly kind/stage of dogs using Python.
+Gathering , Assessing, Cleaning and Reporting tweets archive of WERATEDOGS account to get most lovely kind/stage of dogs using Python.
 Also get best Algorithm to predict each animal/dog
 
 
