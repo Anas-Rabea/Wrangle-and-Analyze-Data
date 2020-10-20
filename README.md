@@ -1,13 +1,13 @@
 # Wrangle-and-Analyze-Data
 Gathering , Assessing, Cleaning and Reporting tweets archive of WERATEDOGS account to get most lovely kind/stage of dogs using Python.
-Also get best Algorithm to predict each animal/dog
+Also get best Algorithms to predict each animal/dog
 
 
 Gathering
 -
 - (CSV)Downloading the intiative file of twitter_enhance.
 - (URL)Using request library for download the image_prediction table.
-- (API)After getting tha app Accept from twitter. used tweepy module to get the archive content.
+- (API)After getting tha app Accept from twitter. used TWEEPY to get the archive content.
 
 Assessing
 -
