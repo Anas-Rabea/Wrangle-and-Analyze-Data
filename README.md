@@ -3,7 +3,8 @@ Gathering , Assessing, Cleaning and Reporting tweets archive of WERATEDOGS accou
 Also get best Algorithm to predict each animal/dog
 
 
- Gathering
+Gathering
+-
 - (CSV)Downloading the intiative file of twitter_enhance.
 - (URL)Using request library for download the image_prediction table.
 - (API)After getting tha app Accept from twitter. used tweepy module to get the archive content.
@@ -26,7 +27,7 @@ typing
 I typed each tidness and quality issues that need to be cleaned later
 
 Cleaning
-
+-
 
 - Getting both quality and tidness issues to clean.
 - Starting with copying the original sources and dealing with missing contents.
