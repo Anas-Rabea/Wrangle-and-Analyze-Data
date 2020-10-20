@@ -3,20 +3,20 @@ Gathering , Assessing, Cleaning and Reporting tweets archive of WERATEDOGS accou
 Also get best Algorithm to predict each animal/dog
 
 
-Gathering
+ Gathering
 ........................
-(CSV)Downloading the intiative file of twitter_enhance.
-(URL)Using request library for download the image_prediction table.
-(API)After getting tha app Accept from twitter. used tweepy module to get the archive content.
+- (CSV)Downloading the intiative file of twitter_enhance.
+- (URL)Using request library for download the image_prediction table.
+- (API)After getting tha app Accept from twitter. used tweepy module to get the archive content.
 
 Assessing
 ........................
-visual and programmatically
+Visual and Programmatically
 ...
-Visual first to get a general idea about each column and it's value.
+- Visual first to get a general idea about each column and it's value.
 Knowing datatypes of each column and keep in mind the cleaning of the wrong datatypes
 
-programmatically
+-Programmatically
 ...
 I used each available methode to get into each column in each table
 using describe() for statistics description , value_counts() for value counts and knowing different values
